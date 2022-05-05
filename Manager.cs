@@ -34,12 +34,7 @@ namespace EMSForLitwareOrganization
             Console.WriteLine("Other Allowances {0}",OtherAllowances);
 
         }
-        /*public double HRA { get; }                
-        public override void MethodForGrossSalary()
-        {
-            Employee employee = new Employee();
-            
-        }*/
+       
         public override void CalculateSalary()
         {
             Employee emp = new Employee();
