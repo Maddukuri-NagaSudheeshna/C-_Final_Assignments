@@ -27,19 +27,10 @@ namespace EMSForLitwareOrganization
             {
                 Employee emp = new Employee();
                 emp.Method1(101);
-                emp.Method2("kishan kumar");
+                emp.Method2("sudheeshna");
                 emp.Method3();
             }
             lit.LogoutfromLitwareOrg();
-
-            /*emp.Method1(101);
-            emp.Method2("Sudheeshna");
-            emp.Method3(); */   
-
-
-            //emp.MethodforHRA();
-            //emp.MethodForGrossSalary();
-            //emp.CalculateSalary();
         }
        
     }
